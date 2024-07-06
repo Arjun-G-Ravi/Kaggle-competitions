@@ -1,0 +1,127 @@
+{
+    "os": "Linux-6.5.0-41-generic-x86_64-with-glibc2.35",
+    "python": "3.10.12",
+    "heartbeatAt": "2024-07-06T18:27:31.455358",
+    "startedAt": "2024-07-06T18:27:30.262053",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/Arjun-G-Ravi/Kaggle-competitions.git",
+        "commit": "18e39c24a2f4c46829ee62bd9b9f32703c5332ba"
+    },
+    "email": "arjungravi1@gmail.com",
+    "root": "/home/arjun/Desktop/GitHub/Kaggle-competitions",
+    "host": "BlackPearl",
+    "username": "arjun",
+    "executable": "/home/arjun/Desktop/AI_ENV/bin/python3.10",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 3521.4486874999993,
+        "min": 400.0,
+        "max": 4673.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 4552.448,
+            "min": 400.0,
+            "max": 4673.0
+        },
+        {
+            "current": 4584.938,
+            "min": 400.0,
+            "max": 4673.0
+        },
+        {
+            "current": 3712.142,
+            "min": 400.0,
+            "max": 4673.0
+        },
+        {
+            "current": 2531.358,
+            "min": 400.0,
+            "max": 4673.0
+        },
+        {
+            "current": 4574.52,
+            "min": 400.0,
+            "max": 4673.0
+        },
+        {
+            "current": 2841.411,
+            "min": 400.0,
+            "max": 4673.0
+        },
+        {
+            "current": 4191.129,
+            "min": 400.0,
+            "max": 4673.0
+        },
+        {
+            "current": 4591.253,
+            "min": 400.0,
+            "max": 4673.0
+        },
+        {
+            "current": 4168.428,
+            "min": 400.0,
+            "max": 4673.0
+        },
+        {
+            "current": 4587.905,
+            "min": 400.0,
+            "max": 4673.0
+        },
+        {
+            "current": 400.0,
+            "min": 400.0,
+            "max": 4673.0
+        },
+        {
+            "current": 3670.837,
+            "min": 400.0,
+            "max": 4673.0
+        },
+        {
+            "current": 3666.509,
+            "min": 400.0,
+            "max": 4673.0
+        },
+        {
+            "current": 3815.77,
+            "min": 400.0,
+            "max": 4673.0
+        },
+        {
+            "current": 4587.511,
+            "min": 400.0,
+            "max": 4673.0
+        },
+        {
+            "current": 4591.394,
+            "min": 400.0,
+            "max": 4673.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 915.3232879638672,
+            "used": 97.06610488891602
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 3090",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3090",
+            "memory_total": 25769803776
+        }
+    ],
+    "memory": {
+        "total": 15.40456771850586
+    }
+}
