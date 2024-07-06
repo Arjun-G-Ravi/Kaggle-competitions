@@ -1,3 +1,4 @@
 _Ongoing/
 .venv
 _Datasets/
+**/wandb/
